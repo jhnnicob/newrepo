@@ -1,1 +1,2 @@
 This is sample message
+This is second sample message
